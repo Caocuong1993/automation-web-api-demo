@@ -12,7 +12,7 @@ import java.util.Properties;
 public class PropertiesManager {
 
     private PropertiesManager() {
-        throw new IllegalStateException("Utitlity class");
+        throw new IllegalStateException("Utility class");
     }
 
     private static String getNameConfigProperties(String keyConfig) {
