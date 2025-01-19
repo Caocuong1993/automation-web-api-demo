@@ -5,6 +5,8 @@
 - Tool: IDE Intellij
 - With Web app need to download chromedriver version match Chrome browser installed on local after that copy and paste chromedriver into folder src/test/resources/driver
 - Clone project and open with maven project
+# Branch code
+- develop
 
 # Path feature file:
 - Project API: features/api/RetrieveInformation.feature
