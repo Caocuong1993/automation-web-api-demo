@@ -1,1 +1,1 @@
-# automation-web-api-jitsu
+# automation-web-api-demo
